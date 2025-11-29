@@ -1,0 +1,10 @@
+project_name: "arXiv AI Papers Reproducibility Demo"
+
+data:
+  raw_big_path: "data/raw/6_arXiv_scientific_dataset.csv"
+  sample_path: "data/processed/arxiv_ai_sample.csv"
+  sample_n_rows: 10000
+  random_state: 42
+
+profiling:
+  output_html: "metadata/arxiv_ai_profiling.html"

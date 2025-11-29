@@ -1,0 +1,4 @@
+Run at 2025-11-29T22:15:46.491930 | sample=arxiv_ai_sample.csv | rows=10000
+Run at 2025-11-29T22:32:45.198111 | sample=arxiv_ai_sample.csv | rows=10000
+Run at 2025-11-29T22:33:06.814163 | sample=arxiv_ai_sample.csv | rows=10000
+Run at 2025-11-29T22:59:31.634372 | sample=arxiv_ai_sample.csv | rows=10000

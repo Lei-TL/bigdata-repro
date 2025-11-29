@@ -1,0 +1,10 @@
+# Bỏ toàn bộ raw data (file lớn)
+data/raw/
+
+# Bỏ venv nếu có
+venv/
+.env
+
+# Bỏ checkpoint của Jupyter
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
